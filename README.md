@@ -23,3 +23,12 @@ The project can be cut into three steps :
  2. Use the groups of similar products to build a simple recommender system algorithm.
 
  3. Use topic modeling algorithms to automatically assess the latent topics present in the item descriptions.
+
+Deliverable 📬
+
+To complete this project,you should:
+
+1. Train at least one clustering model on the corpus and display wordclouds describing the clusters
+2. Develop a simple python code that allows a user to type the id of a product he's interested in, and then get a list of similar items
+3. Train at least one TruncatedSVD model on the corpus and display wordclouds describing the latent topics
+
