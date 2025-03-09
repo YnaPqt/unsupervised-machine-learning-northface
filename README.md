@@ -1,6 +1,6 @@
-##**PROJECT Unsupervised Machine Learning** 
+**PROJECT Unsupervised Machine Learning**
 
-##**The North Face ecommerce** 
+**The North Face ecommerce** 
 
 Company's Description 📇
 
