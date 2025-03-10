@@ -1,6 +1,6 @@
-**PROJECT Unsupervised Machine Learning**
+ # PROJECT Unsupervised Machine Learning
 
-**The North Face ecommerce** 
+## The North Face ecommerce
 
 Company's Description 📇
 
@@ -14,7 +14,7 @@ They have identified two major solutions that could have a huge effect on the co
 Deploying a recommender system that will allow to suggest additionnal products to users, that are similar to the items they are already interested in. The recommendations could be materialized by a "you might also be interested by these products..." section that would appear on each product page of the website.
 Improving the structure of the products catalog thanks to topic extraction. The idea is to use unsupervised methods to challenge the existing categories : is it possible to find new categories of product that would be more suitable for the navigation on the website ?
 
-Goals 🎯
+## Goals 🎯
 
 The project can be cut into three steps :
 
@@ -24,7 +24,7 @@ The project can be cut into three steps :
 
  3. Use topic modeling algorithms to automatically assess the latent topics present in the item descriptions.
 
-Deliverable 📬
+## Deliverable 📬
 
 To complete this project, you should:
 
